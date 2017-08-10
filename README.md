@@ -3,7 +3,7 @@ This repo provides an [ubuntu][ubuntu] Virtual Machine preconfigured with tools 
 
 ### Screenshot
 
-![alt text](https://github.com/thomasliebig/animation-vm/screenshots/screenshot1.png "Screenshot")
+![alt text](https://github.com/thomasliebig/animation-vm/blob/master/screenshots/screenshot1.png "Screenshot")
 
 ### Installation
 
