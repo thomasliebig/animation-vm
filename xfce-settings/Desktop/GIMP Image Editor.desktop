@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GIMP Image Editor
+Comment=Create images and edit photographs
+Exec=gimp-2.8 %U
+Icon=gimp
+Path=
+Terminal=false
+StartupNotify=true

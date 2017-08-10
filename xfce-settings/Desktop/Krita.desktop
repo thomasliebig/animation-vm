@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Krita
+Comment=Digital Painting
+Exec=krita %U
+Icon=calligrakrita
+Path=
+Terminal=false
+StartupNotify=true

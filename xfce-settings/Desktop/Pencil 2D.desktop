@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pencil 2D
+Comment=2D Traditional Animation
+Exec=pencil2d
+Icon=pencil
+Path=
+Terminal=false
+StartupNotify=false

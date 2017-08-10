@@ -1,0 +1,6 @@
+[Thu Aug 10 14:49:36.681997 2017] [mpm_winnt:notice] [pid 12996:tid 384] AH00455: Apache/2.4.7 (Win32) PHP/5.4.25 configured -- resuming normal operations
+[Thu Aug 10 14:49:36.681997 2017] [mpm_winnt:notice] [pid 12996:tid 384] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Aug 10 14:49:36.681997 2017] [core:notice] [pid 12996:tid 384] AH00094: Command line: 'mapache.exe -d C:/Users/liebiga/Documents/Vavel/SVN-uni/vm/animation/dokuwiki/server'
+[Thu Aug 10 14:49:36.681997 2017] [mpm_winnt:notice] [pid 12996:tid 384] AH00418: Parent: Created child process 13600
+[Thu Aug 10 14:49:37.084006 2017] [mpm_winnt:notice] [pid 13600:tid 400] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 10 14:49:37.617012 2017] [core:alert] [pid 13600:tid 908] [client ::1:49533] C:/Users/liebiga/Documents/Vavel/SVN-uni/vm/animation/dokuwiki/dokuwiki/data/.htaccess: order not allowed here, referer: http://localhost:8800/install.php

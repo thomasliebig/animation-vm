@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Blender 2.71+2.71~git201406121839.169c95b
+Comment=3D modeling, animation, rendering and post-production
+Exec=blender
+Icon=blender
+Path=
+Terminal=false
+StartupNotify=false

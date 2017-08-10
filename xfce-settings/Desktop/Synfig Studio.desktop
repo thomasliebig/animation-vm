@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Synfig Studio
+Comment=Create and edit 2D animations and compositions
+Exec=synfigstudio %F
+Icon=synfig_icon
+Path=
+Terminal=false
+StartupNotify=true
