@@ -3,7 +3,18 @@ This repo provides an [ubuntu][ubuntu] Virtual Machine preconfigured with tools 
 
 ### Screenshot
 
-![alt text](https://github.com/thomasliebig/animation-vm/screenshots/screenshot1.png "Screenshot")
+![alt text](https://github.com/thomasliebig/animation-vm/blob/master/screenshots/screenshot1.png "Screenshot")
+
+### Included Tools
+
+* [Pencil2d][pencil2d]
+* [Natron][natron]
+* [Blender][blender]
+* [Inkscape][inkscape]
+* [Synfig Studio][synfig]
+* [Gimp][gimp]
+* [Krita][krita]
+* [Renderchan][renderchan]
 
 ### Installation
 
@@ -43,3 +54,11 @@ startx
    [virtualbox]: <https://www.virtualbox.org/>
    [vagrant]: <https://www.vagrantup.com/>
    [tliebig]: <http://www.thomas-liebig.eu>
+   [pencil2d]: <http://www.pencil2d.org/>
+   [natron]: <https://natron.fr/>
+   [blender]: <https://www.blender.org/>
+   [inkscape]: <https://inkscape.org>
+   [synfig]: <https://www.synfig.org/>
+   [gimp]: <https://www.gimp.org/>
+   [krita]: <https://krita.org/en/>
+   [renderchan]: <https://morevnaproject.org/renderchan/>
