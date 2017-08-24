@@ -56,9 +56,10 @@ Vagrant.configure(2) do |config|
     sudo apt-get install -y git
 
     # Synfig
-    sudo apt-get install -y synfigstudio
-    sudo apt-get install -y synfig
-    
+    # sudo apt-get install -y synfigstudio
+    # sudo apt-get install -y synfig
+    cd /vagrant
+    wget https://netcologne.dl.sourceforge.net/project/synfig/snapshots/1.3.4-20170810/SynfigStudio-1.3.4-testing-17.08.10-linux64-9fecd.appimage    
 
     # Renderchan dependencies: sox, zip, ffmpeg
     # flac, krita, mpg123, vorbis, pencil2d
@@ -90,7 +91,7 @@ Vagrant.configure(2) do |config|
 
     # Renderchan
     git clone https://github.com/morevnaproject/RenderChan.git /home/vagrant/renderchan
-    echo "export PATH=\"\$HOME/renderchan/bin/:\$PATH\"" >> /home/vagrant/.bashrc
+    echo "export PATH=\"\$HOME/renderchan/bin/:/vagrant/:\$PATH\"" >> /home/vagrant/.bashrc
 
     # Inkscape
     sudo apt-get install -y inkscape
