@@ -1,0 +1,2 @@
+#!/bin/bash
+/vagrant/SynfigStudio-1.3.4-testing-17.08.10-linux64-9fecd.appimage --appimage-exec synfig "$@"
